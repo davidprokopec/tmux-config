@@ -1,6 +1,6 @@
 # TMUX CONFIG for better productivity
 
 ```
-git clone https://github.com/davidprokopec/neovim-config.git ~/.config/nvim
+git clone https://github.com/davidprokopec/tmux-config.git ~/.config/tmux
 ```
 
