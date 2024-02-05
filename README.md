@@ -2,6 +2,6 @@
 
 
 ```
-git clone https://github.com/davidprokopec/tmux-config.git ~/.config/tmux
+git clone git@github.com:davidprokopec/tmux-config.git ~/.config/tmux
 ```
 
